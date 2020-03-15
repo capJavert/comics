@@ -1,0 +1,61 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: #000000;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width:  666px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    text-align: center;
+    padding: 80px 20px 40px 20px;
+    max-width: 1440px;
+}
+
+h1 {
+    font-family: 'Aclonica', sans-serif;
+    font-size: 6em;
+    text-align: center;
+    margin: 0;
+}
+
+.viewer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+img.page {
+    width: 100%;
+    margin-top: 200px;
+}
+
+.page:first-child {
+    margin-top: 80px;
+}
+
+.signature {
+    margin-top: 80px;
+    text-align: right;
+    align-self: stretch;
+}
+
+.signature h3 {
+    margin: 0;
+}
+
+footer {
+    margin-top: 60px;
+    color: #666666;
+    font-size: 12px;
+    text-transform: uppercase;
+}

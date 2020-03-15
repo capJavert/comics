@@ -1,0 +1,17 @@
+{
+	"name": "comics",
+	"alias": ["comics.kickass.website"],
+	"version": 2,
+	"routes": [
+        {
+			"src": "index.html",
+			"status": 301,
+			"headers": { "Location": "/inquisitor" }
+		},
+		{
+			"src": "/",
+			"status": 301,
+			"headers": { "Location": "/inquisitor" }
+		}
+	]
+}
