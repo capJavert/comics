@@ -50,12 +50,13 @@ img.page {
 }
 
 .signature h3 {
+    font-size: 1.17rem;
     margin: 0;
 }
 
 footer {
     margin-top: 60px;
     color: #666666;
-    font-size: 12px;
+    font-size: 0.625rem;
     text-transform: uppercase;
 }
