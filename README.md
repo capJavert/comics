@@ -4,6 +4,8 @@ My original comics repository, most of them are made in spare time so no commitm
 
 # Inquisitor
 
+![Inquisitor](https://github.com/capJavert/comics/raw/master/images/inquisitor.jpg "Logo Title Text 1")
+
 [Read here](https://comics.kickass.website/inquisitor)
 
 **Story**: Fabijan Barić<br/>
